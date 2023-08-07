@@ -1,4 +1,4 @@
-# Zoo-management-softwa
+# Zoo-management-software
 
 
 **How the software is processed?**
