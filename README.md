@@ -19,21 +19,21 @@ The software is intended for use by zoo managers or animal workers.
 
 # Here are the actions to use in the project:
 
-Code 1 - adding a visitor to the zoo.
-Code 2 - Adding an animal to the zoo.
-Code 3 - Downloading an animal from the zoo.
-Code 4 - Download when a visitor leaves the zoo.
-Code 5 - Printing the names of all the cages and the animals in them.
-Code 6 - Printing the names of the animals in a particular cage.
-Code 7 - Orderly printing in a table of all the details about the visitors to the zoo at a given 													time.
-Code 8 - Orderly printing in a table of all the details about the Wi- Fi visitors to the zoo in 														general.
-Code 9 - Adding a visitor to the group with a guide when he wants to walk with a guide in the zoo.
-Code 10 - Printing the names and splashes of all visitors who wish to participate in the tour with a 										guide.
-Code 11 - adding or removing food from a certain cage (when an employee wishes to update the amount 											after visiting the cage).
-Code 12 - adding or removing water from a certain cage (when an employee wishes to update the amount 										after visiting the cage).
-Code 13 - Printing all the details of a particular animal.
-Code 14 - Printing all details and conditions of a particular cage.
-Code 15 - Print the number of visits left for the guest and place them on the card.
-Code 16 - The number of WiFi guests whose favorite animal is a certain animal.
-Code 17 - Printing the number of visitors to the zoo over a certain age.
-Code 18- Termination.
+> Code 1 - adding a visitor to the zoo.
+> Code 2 - Adding an animal to the zoo.
+> Code 3 - Downloading an animal from the zoo.
+> Code 4 - Download when a visitor leaves the zoo.
+> Code 5 - Printing the names of all the cages and the animals in them.
+> Code 6 - Printing the names of the animals in a particular cage.
+> Code 7 - Orderly printing in a table of all the details about the visitors to the zoo at a given 													time.
+> Code 8 - Orderly printing in a table of all the details about the Wi- Fi visitors to the zoo in 														general.
+> Code 9 - Adding a visitor to the group with a guide when he wants to walk with a guide in the zoo.
+> Code 10 - Printing the names and splashes of all visitors who wish to participate in the tour with             a guide.
+> Code 11 - adding or removing food from a certain cage (when an employee wishes to update the                   amount after visiting the cage).
+> Code 12 - adding or removing water from a certain cage (when an employee wishes to update the                  amount after visiting the cage).
+> Code 13 - Printing all the details of a particular animal.
+> Code 14 - Printing all details and conditions of a particular cage.
+> Code 15 - Print the number of visits left for the guest and place them on the card.
+> Code 16 - The number of WiFi guests whose favorite animal is a certain animal.
+> Code 17 - Printing the number of visitors to the zoo over a certain age.
+> Code 18- end.
