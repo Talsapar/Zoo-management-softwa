@@ -8,7 +8,7 @@ In particular, the project will also deal with zoo visitors, regular and V.I.P v
 The software is intended for use by zoo managers or animal workers.
 
  **The programming structure:**
-
+ 
  The project has four sorted collections,
 
 > 1. An array of length 5 containing the five cages in the zoo.
