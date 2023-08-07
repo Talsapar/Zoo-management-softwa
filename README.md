@@ -11,7 +11,7 @@ In particular, the project will also deal with zoo visitors, regular and V.I.P v
 
 The project has four sorted collections,
 
-1.An array of length 5 containing the five cages in the zoo.
-2.In everything there is a list of animals which is the second collection.
-3.The third collection is a list containing the rules for visitors to the zoo at the given moment
-4.And the fourth collection is a general list of the zoo's V.I.P guest rules (even those who are not necessarily at the zoo at the moment)
+> 1.An array of length 5 containing the five cages in the zoo.
+> 2.In everything there is a list of animals which is the second collection.
+> 3.The third collection is a list containing the rules for visitors to the zoo at the given moment
+> 4.And the fourth collection is a general list of the zoo's V.I.P guest rules (even those who are not necessarily at the zoo at the moment)
