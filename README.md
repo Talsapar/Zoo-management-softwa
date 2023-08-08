@@ -36,4 +36,4 @@ The software is intended for use by zoo managers or animal workers.
 > * Code 15 - Print the number of visits left for the guest and place them on the card.
 > * Code 16 - The number of WiFi guests whose favorite animal is a certain animal.
 > * Code 17 - Printing the number of visitors to the zoo over a certain age.
-> * Code 18- End.
+> * Code 18 - End.
