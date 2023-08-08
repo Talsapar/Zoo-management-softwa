@@ -19,7 +19,7 @@ The software is intended for use by zoo managers or animal workers.
 
 # Here are the actions to use in the project:
 
-> Code 1 - adding a visitor to the zoo.
+> * Code 1 - adding a visitor to the zoo.
 > Code 2 - Adding an animal to the zoo.
 > Code 3 - Downloading an animal from the zoo.
 > Code 4 - Download when a visitor leaves the zoo.
